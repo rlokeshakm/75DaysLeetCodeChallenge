@@ -5,7 +5,7 @@ class Solution:
         for i in nums:
             d[i]=d.get(i,0)+1
         
-        p = [(freq, i) for i, freq in d.items()]
+        p = [(freq, key) for key, freq in d.items()]
         p.sort(reverse=True)
 
         res=[]
