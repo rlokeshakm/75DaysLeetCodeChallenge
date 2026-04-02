@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
