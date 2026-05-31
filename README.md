@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
+| [0412-fizz-buzz](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/rlokeshakm/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
