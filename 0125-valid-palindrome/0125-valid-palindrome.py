@@ -3,7 +3,7 @@ class Solution:
         if s==" ":
             return True
         s=s.lower()
-        s=list(s)
+        
         a=""
         for i in s:
             if i.isalnum():
